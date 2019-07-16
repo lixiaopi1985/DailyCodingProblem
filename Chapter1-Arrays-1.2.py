@@ -33,3 +33,5 @@ def smallest_window(arr):
     lower = bound[0] - 1
         
     return lower, upper
+
+# book solution is more concised
